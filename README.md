@@ -11,7 +11,7 @@ Trade&Ahead is a financial consultancy firm who provide their customers with per
 
 ### Data Dictionary
 
-Ticker Symbol: An abbreviation used to uniquely identify publicly traded shares of a particular stock on a particular stock market
+- Ticker Symbol: An abbreviation used to uniquely identify publicly traded shares of a particular stock on a particular stock market
 Company: Name of the company
 GICS Sector: The specific economic sector assigned to a company by the Global Industry Classification Standard (GICS) that best defines its business operations
 GICS Sub Industry: The specific sub-industry group assigned to a company by the Global Industry Classification Standard (GICS) that best defines its business operations
